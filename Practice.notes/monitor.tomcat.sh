@@ -1,5 +1,6 @@
 #!/bin/bash
-#变量=tomcat的路径
+
+#变量=tomcat的安装路径
 tomcat_home='/data/apache-tomcat-8.5.11/'
 
 #变量=tomcat的关闭路径
